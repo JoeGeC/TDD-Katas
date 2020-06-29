@@ -1,0 +1,14 @@
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/Snap_Joe_Khoovi.deps.json
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/Snap_Joe_Khoovi.runtimeconfig.json
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/Snap_Joe_Khoovi.runtimeconfig.dev.json
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/Snap_Joe_Khoovi.dll
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/bin/Debug/netcoreapp2.2/Snap_Joe_Khoovi.pdb
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.csprojAssemblyReference.cache
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.csproj.CoreCompileInputs.cache
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.AssemblyInfoInputs.cache
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.AssemblyInfo.cs
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.dll
+/Users/joeb/RiderProjects/csharp-katas/Snap_Joe_Khoovi/obj/Debug/netcoreapp2.2/Snap_Joe_Khoovi.pdb
